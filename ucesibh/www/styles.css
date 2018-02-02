@@ -113,7 +113,7 @@ html, body {
           align-items: center;
 }
 .demo-chart:nth-child(1) {
-  color: #ACEC00;
+  color: #FA11A2;
 }
 .demo-chart:nth-child(2) {
   color: #00BBD6;
@@ -122,7 +122,7 @@ html, body {
   color: #BA65C9;
 }
 .demo-chart:nth-child(4) {
-  color: #EF3C79;
+  color: #FABC11;
 }
 .demo-graphs {
   padding: 16px 32px;
